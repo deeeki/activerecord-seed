@@ -1,4 +1,4 @@
-# Activerecord::Seed
+# ActiveRecord::Seed
 
 An Extension of ActiveRecord that supports to dump/load data with CSV
 
