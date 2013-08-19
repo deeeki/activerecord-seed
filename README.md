@@ -22,7 +22,7 @@ And then execute:
 
 ```ruby
 # config/application.rb or config/environments/ENV.rb
-config.seed.tables = %w<resources> # default: []
+config.seed.tables = %w[products categories] # default: []
 ```
 
 * If you want to use with all tables, set `:all`
