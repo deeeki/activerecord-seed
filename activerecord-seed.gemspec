@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = ActiveRecord::Seed::VERSION
   spec.authors       = ["itzki"]
   spec.email         = ["itzki.h@gmail.com"]
-  spec.description   = %q{An Extension of ActiveRecord that supports to dump/load data with CSV}
-  spec.summary       = %q{An Extension of ActiveRecord that supports to dump/load data with CSV}
+  spec.description   = %q{An extension of ActiveRecord that supports to dump/load data with CSV}
+  spec.summary       = %q{An extension of ActiveRecord that supports to dump/load data with CSV}
   spec.homepage      = "https://github.com/itzki/activerecord-seed"
   spec.license       = "MIT"
 

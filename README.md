@@ -1,6 +1,6 @@
 # ActiveRecord::Seed
 
-An Extension of ActiveRecord that supports to dump/load data with CSV
+An extension of ActiveRecord that supports to dump/load data with CSV
 
 (Won't release on rubygems.org because of my personal demand and no test)
 
